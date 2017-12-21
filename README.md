@@ -26,6 +26,8 @@ Curso de Angular (17 aulas) - https://goo.gl/6rT9ZC
 
 Curso de Angular 2 (56 aulas) - https://goo.gl/mxPqRt
 
+Curso de Angular 4 (107 aulas) - https://goo.gl/jCW34C
+
 ===== BACKEND =====
 
 Curso Básico de PHP (20 aulas) - https://goo.gl/wLra9o
