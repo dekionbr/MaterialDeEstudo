@@ -158,8 +158,19 @@ Lambda3 - https://www.lambda3.com.br/lambda3-podcast/
 
 Hipsters Ponto Tech - https://hipsters.tech/
 
-===== Blog =====
+===== Blog de tecnologia =====
 
 Lambda3 Blog - https://www.lambda3.com.br/blog/
 
+===== Sites de Treinamento =====
+
+Loiane training - https://loiane.training/
+
+===== Mentoria =====
+
+Training Center - https://github.com/training-center/mentoria
+
+===== Awesome =====
+
+Awesome list (Lista "incrível" da Comunidade) - https://github.com/sindresorhus/awesome
 
