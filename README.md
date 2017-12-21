@@ -140,4 +140,20 @@ Canal dotNET - https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg
 
 Caffeine Algorithm - https://www.youtube.com/channel/UCdt_qK8rmpxrq942ZFIqxvQ
 
+Rodrigo Branas - https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ
+
+===== PodCast =====
+
+PodProgramar - https://mundopodcast.com.br/podprogramar/
+
+DevNaEstrada - https://devnaestrada.com.br/
+
+Lambda3 - https://www.lambda3.com.br/lambda3-podcast/
+
+Hipsters Ponto Tech - https://hipsters.tech/
+
+===== Blog =====
+
+Lambda3 Blog - https://www.lambda3.com.br/blog/
+
 
