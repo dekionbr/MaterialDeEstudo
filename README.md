@@ -125,3 +125,15 @@ Curso Completo de Servidor Linux Debian (35 aulas) - https://goo.gl/sNk7xU
 Curso Avançado de Linux Ubuntu - Comandos no Terminal (15 aulas) - https://goo.gl/KA6S70
 
 Curso de Windows Server 2016 (15 aulas) - https://goo.gl/WnnYqX
+
+===== Canais Youtube =====
+
+Curso em Vídeo - https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
+
+Alura - https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw
+
+Canal dotNET - https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg
+
+Caffeine Algorithm - https://www.youtube.com/channel/UCdt_qK8rmpxrq942ZFIqxvQ
+
+
