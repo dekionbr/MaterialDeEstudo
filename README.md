@@ -46,6 +46,8 @@ Curso de Gulp (11 aulas)(inglês) - https://goo.gl/dgs7On
 
 Curso de Grunt (16 aulas)(inglês) - https://goo.gl/8KZskT
 
+Curso de Lua (21 aulas) - https://goo.gl/k3qYFe
+
 ===== FRAMEWORKS DE PHP =====
 
 Curso de Laravel (23 aulas) - https://goo.gl/C8RaxI
@@ -143,6 +145,8 @@ Canal dotNET - https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg
 Caffeine Algorithm - https://www.youtube.com/channel/UCdt_qK8rmpxrq942ZFIqxvQ
 
 Rodrigo Branas - https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ
+
+Techiesse - https://www.youtube.com/channel/UCTjD7yoMG-pNFqy50FE0u5A
 
 ===== PodCast =====
 
