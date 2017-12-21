@@ -1,6 +1,6 @@
 # Material De Estudo
 
-##===== FRONTEND =====
+===== FRONTEND =====
 
 Curso Completo de HTML5 (42 aulas) - https://goo.gl/SD4p4g
 
@@ -26,7 +26,8 @@ Curso de Angular (17 aulas) - https://goo.gl/6rT9ZC
 
 Curso de Angular 2 (56 aulas) - https://goo.gl/mxPqRt
 
-##===== BACKEND =====
+===== BACKEND =====
+
 Curso Básico de PHP (20 aulas) - https://goo.gl/wLra9o
 
 Curso Completo de PHP (108 aulas) - https://goo.gl/1th6ok
@@ -43,7 +44,7 @@ Curso de Gulp (11 aulas)(inglês) - https://goo.gl/dgs7On
 
 Curso de Grunt (16 aulas)(inglês) - https://goo.gl/8KZskT
 
-##===== FRAMEWORKS DE PHP =====
+===== FRAMEWORKS DE PHP =====
 
 Curso de Laravel (23 aulas) - https://goo.gl/C8RaxI
 
@@ -53,13 +54,13 @@ Curso de Zend 2 (29 aulas) - https://goo.gl/nDkesr
 
 Curso de Zend 3 (13 aulas)(inglês) - https://goo.gl/N1PBQV
 
-##===== BANCO DE DADOS =====
+===== BANCO DE DADOS =====
 
 Curso Completo de MySQL (37 aulas) - https://goo.gl/wom29p
 
 Curso de MongoDB (9 aulas) - https://goo.gl/xc1LAo
 
-##===== CMS =====
+===== CMS =====
 
 Curso Básico de Wordpress (34 aulas) - https://goo.gl/VTa3aV
 
@@ -85,7 +86,7 @@ Curso de Desenvolvimento de Temas para o Drupal 7 (58 aulas)(Português de Portu
 
 Curso de Desenvolvimento de Módulos para o Drupal 7 (11 aulas)(inglês) - https://goo.gl/99NW2O
 
-##===== MOBILE =====
+===== MOBILE =====
 
 Curso de Desenvolvimento de Apps para Android (30 aulas) - https://goo.gl/btlCUv
 
@@ -107,7 +108,7 @@ Curso de Interfaces Responsivas com jQuery Mobile (20 aulas) - https://goo.gl/0K
 
 Curso de Interfaces Responsivas com Sencha Touch (6 aulas) - https://goo.gl/JktVlX
 
-##===== SERVIDORES =====
+===== SERVIDORES =====
 
 Curso Básico de GIT (8 aulas) - https://goo.gl/OSdCBS
 
