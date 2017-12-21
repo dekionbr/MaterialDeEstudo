@@ -126,6 +126,10 @@ Curso Avançado de Linux Ubuntu - Comandos no Terminal (15 aulas) - https://goo.
 
 Curso de Windows Server 2016 (15 aulas) - https://goo.gl/WnnYqX
 
+===== DevOps =====
+
+Entrega contínua com Heroku - https://www.schoolofnet.com/curso-entrega-continua-com-heroku/
+
 ===== Canais Youtube =====
 
 Curso em Vídeo - https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
