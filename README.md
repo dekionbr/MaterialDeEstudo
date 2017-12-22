@@ -7,7 +7,7 @@
     - [Frameworks](#frameworks)
 2. [Desenvolvimento BackEnd](#desenvolvimento-backend)
     - [PHP](#php)
-      - [Frameworks de PHP](#css-e-pre-processadores)
+      - [Frameworks de PHP](#frameworks-de-PHP)
     - [javascript](#javascript)
     - [Ruby](#ruby)
     - [Lua](#lua)
@@ -22,8 +22,17 @@
     - [Android](#android)
     - [iOS](#iOS)
     - [Multplataforma](#android)
-
-
+6. [Servidores](#servidores)
+    - [SysOps](#sysops)
+    - [Linux](#linux)
+    - [Windows](#windows)
+    - [DevOps](#DevOps)
+7. [Canais do youtube](#canais-do-youtube)
+8. [PodCast](#podcast) 
+9. [Blog de tecnologia](#blog-de-tecnologia)
+10. [Sites de Treinamento](#sites-de-treinamento)
+11. [Mentoria](#mentoria)
+12. [Awesome](#awesome)
 
 ## Desenvolvimento FrontEnd 
 
@@ -159,15 +168,15 @@
 
 - [Lambda3 Blog](https://www.lambda3.com.br/blog/)
 
-## Sites de Treinamento
+## Sites de Treinamento 
 
 - [Loiane training](https://loiane.training/)
 
-## Mentoria
+## Mentoria 
 
 - [Training Center](https://github.com/training-center/mentoria)
 
-## Awesome list =====
+## Awesome
 
 - [Awesome list (Lista de "incríveis" da Comunidade)](https://github.com/sindresorhus/awesome)
 
