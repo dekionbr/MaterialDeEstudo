@@ -68,7 +68,7 @@
 ### Modelagem 3D
 
 #### Blender
-- [Curso de Blender 3D (17 Aulas)](https//goo.gl/EvPg7s)
+- [Curso de Blender 3D (17 Aulas)](https://goo.gl/EvPg7s)
 
 #### 3D Studio Max
 - [Curso de 3D Studio Max (45 Aulas)](https://goo.gl/WlYziZ)
