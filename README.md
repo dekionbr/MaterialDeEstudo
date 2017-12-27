@@ -5,34 +5,40 @@
     - [CSS e pré-processadores](#css-e-pre-processadores)
     - [Linguagens](#linguagens)
     - [Frameworks](#frameworks)
-2. [Desenvolvimento BackEnd](#desenvolvimento-backend)
+2. [Design](#Design)
+    - [Modelagem 3D](#Modelagem-3d)
+        - [Blender](#blender)
+        - [3D Studio Max](#3d-studio-max)
+        - [Maya](#maya)
+        - [SketchUp](#sketchup)
+3. [Desenvolvimento BackEnd](#desenvolvimento-backend)
     - [PHP](#php)
       - [Frameworks de PHP](#frameworks-de-PHP)
     - [javascript](#javascript)
     - [Ruby](#ruby)
     - [Lua](#lua)
-3. [Banco de Dados](#banco-de-dados)
+4. [Banco de Dados](#banco-de-dados)
     - [MySQL](#mysql)
     - [MongoDB](#mongodb)
-4. [CMS](#cms)
+5. [CMS](#cms)
     - [Wordpress](#wordpress)
     - [Magento](#magento)
     - [Drupal](#drupal)
-5. [Mobile](#mobile)
+6. [Mobile](#mobile)
     - [Android](#android)
     - [iOS](#iOS)
     - [Multplataforma](#android)
-6. [Servidores](#servidores)
+7. [Servidores](#servidores)
     - [SysOps](#sysops)
     - [Linux](#linux)
     - [Windows](#windows)
     - [DevOps](#DevOps)
-7. [Canais do youtube](#canais-do-youtube)
-8. [PodCast](#podcast) 
-9. [Blog de tecnologia](#blog-de-tecnologia)
-10. [Sites de Treinamento](#sites-de-treinamento)
-11. [Mentoria](#mentoria)
-12. [Awesome](#awesome)
+8. [Canais do youtube](#canais-do-youtube)
+9. [PodCast](#podcast) 
+10. [Blog de tecnologia](#blog-de-tecnologia)
+11. [Sites de Treinamento](#sites-de-treinamento)
+12. [Mentoria](#mentoria)
+13. [Awesome](#awesome)
 
 ## Desenvolvimento FrontEnd 
 
@@ -56,6 +62,22 @@
 - [Curso de Angular 4 (107 aulas)](https://goo.gl/jCW34C)
 - [Curso de Bootstrap (16 aulas)](https://goo.gl/xFDOxT)
 - [Curso Completo de jQuery (56 aulas)](https://goo.gl/tHdIZ7)
+
+## Design
+
+### Modelagem 3D
+
+#### Blender
+- [Curso de Blender 3D (17 Aulas)](https//goo.gl/EvPg7s)
+
+#### 3D Studio Max
+- [Curso de 3D Studio Max (45 Aulas)](https://goo.gl/WlYziZ)
+
+#### Maya
+- [Curso de Maya (40 Aulas)](https://goo.gl/8uOa4e)
+
+#### SketchUp
+- [Curso de SketchUp (48 Aulas)](https://goo.gl/ksMwfO)
 
 ## Desenvolvimento BackEnd
 
