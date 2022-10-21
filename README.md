@@ -16,7 +16,7 @@
       - [Frameworks de PHP](#frameworks-de-php)
     - [javascript](#javascript)
     - [Ruby](#ruby)
-    - [Lua](#lua)
+    - [Lua](#lua)    
 4. [Banco de Dados](#banco-de-dados)
     - [MySQL](#mysql)
     - [MongoDB](#mongodb)
@@ -80,6 +80,10 @@
 - [Curso de SketchUp (48 Aulas)](https://goo.gl/ksMwfO)
 
 ## Desenvolvimento BackEnd
+
+### Guias
+- [Guia Dev](https://github.com/arthurspk/guiadevbrasil)
+- [Guia do Backend](https://github.com/arthurspk/guiadobackend)
 
 ### PHP
 - [Curso Básico de PHP (20 aulas)](https://goo.gl/wLra9o)
